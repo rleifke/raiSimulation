@@ -1,2 +1,2 @@
 # raiSimulation
-simulate predicted fluctuations for RAI stablecoin under market stress
+RAI stablecoin price simulation under market stress
